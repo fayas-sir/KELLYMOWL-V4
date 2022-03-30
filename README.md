@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/fe0c46a730ac0e507dd57.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="20220330_080524.jpg" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="KELLYMOWL-V4" src="https://img.shields.io/badge/fayas-sir-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
